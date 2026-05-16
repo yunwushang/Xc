@@ -1,0 +1,32 @@
+{
+    "urls": [
+        {
+            "name": "0📚云雾仓",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yunwushang/sz1/refs/heads/master/%E4%BA%91%E4%BB%93.json"
+        },        
+        {
+            "name": "01📚云雾仓",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yunwushang/sz1/raw/refs/heads/master/%E4%BA%91%E4%BB%931.json"
+        },
+        {
+            "name": "饭📚云雾仓",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yunwushang/sz1/refs/heads/master/%E4%BA%91%E4%BB%93%E9%A5%AD.json"
+        },
+        {
+            "name": "备饭📚云雾仓",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yunwushang/sz1/refs/heads/master/%E4%BA%91%E4%BB%93%E9%A5%AD.json"
+        },
+        {
+            "name": "0备📚云雾仓",
+            "url": "https://gh.jasonzeng.dev//https://raw.githubusercontent.com/yunwushang/sz1/refs/heads/master/%E4%BA%91%E4%BB%93.json"
+        },
+        {
+            "name": "01备📚云雾仓",
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/yunwushang/sz1/raw/refs/heads/master/%E4%BA%91%E4%BB%931.json"
+        },
+        {
+            "name": "饭太硬📚云雾仓",
+            "url": "http://www.饭太硬.com/tv/"
+        }
+    ]
+}
