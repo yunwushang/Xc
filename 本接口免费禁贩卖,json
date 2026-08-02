@@ -1,5 +1,9 @@
 {
-    "urls": [
+    "urls": [       
+        {
+            "name": "0📚云雾仓",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yunwushang/sz1/refs/heads/master/%E4%BA%91%E4%BB%93.json"
+        }, 
         {
             "name": "网络接口",
             "url": "https://8815.kstore.vip/tvbox/wmz"
@@ -7,10 +11,6 @@
         {
             "name": "二小",
             "url": "https://9280.kstore.vip/newwex.json"
-        },        
-        {
-            "name": "0📚云雾仓",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yunwushang/sz1/refs/heads/master/%E4%BA%91%E4%BB%93.json"
         },      
         {
             "name": "01📚云雾仓",
